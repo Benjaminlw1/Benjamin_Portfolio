@@ -6,4 +6,4 @@ Data science portfolio
 
 # Launch the web app:
 
-[![Streamlit App](https://share.streamlit.io/Benjaminlw1/Benjamin_Portfolio/Stock_Market.py)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/Benjaminlw1/Benjamin_Portfolio/Stock_Market.py)
