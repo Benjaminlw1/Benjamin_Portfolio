@@ -7,8 +7,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import os
 import streamlit as st
-import tensorflow as tf
-from tensorflow.keras.models import load_model
 from sklearn.preprocessing import MinMaxScaler
 import pickle
 from datetime import timedelta
