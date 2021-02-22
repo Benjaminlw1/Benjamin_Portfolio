@@ -2,7 +2,6 @@ import warnings
 warnings.filterwarnings('ignore')  # Hide warnings
 from datetime import date
 import pandas as pd
-import pandas_datareader.data as web
 import numpy as np
 import matplotlib.pyplot as plt
 import os
@@ -10,6 +9,7 @@ import streamlit as st
 from sklearn.preprocessing import MinMaxScaler
 import pickle
 from datetime import timedelta
+import pandas_datareader.data as web
 
 #Importing Libraries done
 
