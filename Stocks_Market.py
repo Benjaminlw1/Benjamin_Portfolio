@@ -2,6 +2,7 @@ import warnings
 warnings.filterwarnings('ignore')  # Hide warnings
 from datetime import date
 import pandas as pd
+import pandas_datareader.data as web
 import numpy as np
 import matplotlib.pyplot as plt
 import os
@@ -11,12 +12,11 @@ from tensorflow.keras.models import load_model
 from sklearn.preprocessing import MinMaxScaler
 import pickle
 from datetime import timedelta
-import pandas_datareader.data as web
 
 #Importing Libraries done
 
 #title
-st.title('Predicting TSLA FUTURE STOCK PRICES')
+st.title('Predicting AAPL & MSFT FUTURE STOCK PRICES')
 '---------------------------------------------------------'
 #text
 st.write("Developed by Benjamin Long")
@@ -25,7 +25,7 @@ today = date.today()
 # dd/mm/YY
 d1 = today.strftime("%Y/%m/%d")
 
-com = st.sidebar.selectbox("Select a stock",("FB","TSLA"))
+#com = st.sidebar.selectbox("Select a stock",("FB","TSLA"))
 
 st_date= st.sidebar.text_input("Enter Starting date as YYYY/MM/DD", "2020/01/01")
 
@@ -33,7 +33,7 @@ end_date= st.sidebar.text_input("Enter Ending date as YYYY/MM/DD", str(d1))
 
 future_days = st.sidebar.slider('Days to Predict:', min_value=1,max_value=10)
 
-df = web.DataReader(com, 'yahoo', st_date, end_date)  # Collects data
+df = web.DataReader("TSLA", 'yahoo', st_date, end_date)  # Collects data
 
 #title
 st.title('Stock Market Data')
