@@ -2,7 +2,6 @@ import warnings
 warnings.filterwarnings('ignore')  # Hide warnings
 from datetime import date
 import pandas as pd
-import pandas_datareader.data as web
 import numpy as np
 import matplotlib.pyplot as plt
 import os
@@ -12,11 +11,12 @@ from tensorflow.keras.models import load_model
 from sklearn.preprocessing import MinMaxScaler
 import pickle
 from datetime import timedelta
+import pandas_datareader.data as web
 
 #Importing Libraries done
 
 #title
-st.title('Predicting AAPL & MSFT FUTURE STOCK PRICES')
+st.title('Predicting TSLA FUTURE STOCK PRICES')
 '---------------------------------------------------------'
 #text
 st.write("Developed by Benjamin Long")
