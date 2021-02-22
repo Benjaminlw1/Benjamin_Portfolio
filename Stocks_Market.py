@@ -16,7 +16,7 @@ from datetime import timedelta
 #Importing Libraries done
 
 #title
-st.title('Predicting AAPL & MSFT FUTURE STOCK PRICES')
+st.title('Predicting TSLA FUTURE STOCK PRICES')
 '---------------------------------------------------------'
 #text
 st.write("Developed by Benjamin Long")
