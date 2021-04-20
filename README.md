@@ -9,5 +9,5 @@ Data science portfolio
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/benjaminlw1/benjamin_portfolio/main/Stocks_Market.py)
 
 # Project 2: Web scaping and clean dataset: project Overview
-* obtain data by web scaping
-* build pipeline by extract, transform and load data from web scaping
+* Obtain data by web scaping
+* Build pipeline by extract, transform and load data from web scaping
