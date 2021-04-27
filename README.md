@@ -16,7 +16,4 @@ Data science portfolio:
 
 Other projects:
 
-# Project 1: Python GUI booking staycation system
-* Using tkinter library 
-* Using python dictionary and list 
-* To run main.py in GUI folder to run project
+
