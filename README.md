@@ -15,6 +15,6 @@ Data science portfolio
 * To run project "./run.sh" in windows shell
 
 # Project 3: Python GUI booking staycation system
-* using tkinter library 
-* python dictionary and list 
+* Using tkinter library 
+* Using python dictionary and list 
 * To run main.py in GUI folder to run project
