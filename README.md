@@ -1,5 +1,5 @@
 # Benjamin_Portfolio
-Data science portfolio
+Data science portfolio:
 
 # Project 1: Predicting future stock prices with machine learning: project Overview
 * Building web application using streamlit in python
@@ -13,6 +13,8 @@ Data science portfolio
 * Build pipeline by extract, transform and load data from web scaping
 * Load data to FAST API
 * To run project ".\run.sh" in windows shell
+
+Other projects:
 
 # Project 3: Python GUI booking staycation system
 * Using tkinter library 
