@@ -8,10 +8,13 @@ Data science portfolio
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/benjaminlw1/benjamin_portfolio/main/Stocks_Market.py)
 
-
-
 # Project 2: Web scaping and clean dataset: project Overview
 * Obtain data by web scaping
 * Build pipeline by extract, transform and load data from web scaping
 * Windows power shell for FAST API
 * To run project "./run.sh" in windows shell
+
+# Project 3: Python GUI booking staycation system
+* using tkinter library 
+* python dictionary and list 
+* To run main.py to run project
