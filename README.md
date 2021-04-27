@@ -12,7 +12,7 @@ Data science portfolio
 * Obtain data by web scaping
 * Build pipeline by extract, transform and load data from web scaping
 * Windows power shell for FAST API
-* To run project "./run.sh" in windows shell
+* To run project ".\run.sh" in windows shell
 
 # Project 3: Python GUI booking staycation system
 * Using tkinter library 
