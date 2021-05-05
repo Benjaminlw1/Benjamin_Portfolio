@@ -17,5 +17,5 @@ Data science portfolio:
 Other projects:
 
 # Python GUI Booking system: project Overview
-# Usage of tkinter library 
+* Usage of tkinter library 
 
