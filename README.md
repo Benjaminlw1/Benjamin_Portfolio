@@ -15,7 +15,7 @@ Data science portfolio:
 * To run project ".\run.sh" in windows shell
 
 # Project 3: Build ETL using spotify api and airflow scheduling(updating)
-* used sqlite3 as database
+* used sqlalchemy ocject-relational mapper(ORM) 
 * airflow scheduling 
 * created Exceptions to validate data
 * 
