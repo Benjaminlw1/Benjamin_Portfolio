@@ -16,9 +16,9 @@ Data science portfolio:
 
 # Project 3: Build ETL using spotify api and airflow scheduling(updating)
 * used sqlalchemy ocject-relational mapper(ORM) 
-* airflow scheduling 
+* airflow for scheduling 
 * created Exceptions to validate data
-* 
+* sqlite for database
 
 Other projects:
 
