@@ -16,9 +16,9 @@ Data science portfolio:
 
 # Project 3: Build ETL using spotify api and scheduling(updating)
 * used sqlalchemy object-relational mapper(ORM) 
-* airflow for scheduling 
-* sqlite for database
-* DBeaver-21.1.0 for database management
+* airflow scheduling 
+* sqlite database
+* DBeaver-21.1.0 database management
 
 Other projects:
 
