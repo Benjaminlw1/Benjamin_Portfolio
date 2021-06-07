@@ -19,6 +19,7 @@ Data science portfolio:
 * airflow for scheduling 
 * created Exceptions to validate data
 * sqlite for database
+* DBeaver-21.1.0 for database management
 
 Other projects:
 
