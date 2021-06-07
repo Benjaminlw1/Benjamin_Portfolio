@@ -14,10 +14,9 @@ Data science portfolio:
 * Load data to FAST API
 * To run project ".\run.sh" in windows shell
 
-# Project 3: Build ETL using spotify api and airflow scheduling(updating)
+# Project 3: Build ETL using spotify api and scheduling(updating)
 * used sqlalchemy object-relational mapper(ORM) 
 * airflow for scheduling 
-* created Exceptions to validate data
 * sqlite for database
 * DBeaver-21.1.0 for database management
 
