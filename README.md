@@ -14,6 +14,12 @@ Data science portfolio:
 * Load data to FAST API
 * To run project ".\run.sh" in windows shell
 
+# Project 3: Build ETL using spotify api and airflow scheduling(updating)
+* used sqlite3 as database
+* airflow scheduling 
+* created Exceptions to validate data
+* 
+
 Other projects:
 
 # Python GUI Booking system: project Overview
