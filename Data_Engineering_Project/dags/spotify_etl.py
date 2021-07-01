@@ -116,9 +116,6 @@ def run_spotify_etl():
 
     song_df = pd.DataFrame(song_dict, columns=["song_name", "artist_name","played_at", "timestamp"])
 
-
-    print(song_df)
-
     #check data 
     if check_valid_data(song_df):
         print("Data validated")
