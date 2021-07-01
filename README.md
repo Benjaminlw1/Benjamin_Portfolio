@@ -15,7 +15,7 @@ Data science portfolio:
 * Load data to FAST API
 * To run project ".\run.sh" in windows shell
 
-# Project 3: Build ETL using spotify api and scheduling(updating)
+# Project 3: Build Batch ETL using spotify api and scheduling with airflow (updating email operator)
 * Filename : Data Engineering_project
 * sqlalchemy object-relational mapper(ORM) 
 * airflow scheduling 
