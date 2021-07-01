@@ -37,9 +37,9 @@ def check_valid_data(df: pd.DataFrame) -> bool:
 def run_spotify_etl():
 
     def perform_auth():
-        SPOTIPY_CLIENT_ID='dc06eac0b6b5475badc1a3d056f4bdc8'
-        SPOTIPY_CLIENT_SECRET='139c453513bb4416a78fef2f0fcda8a0'
-        SPOTIPY_REDIRECT_URI='https://www.google.com.sg'
+        SPOTIPY_CLIENT_ID=''
+        SPOTIPY_CLIENT_SECRET=''
+        SPOTIPY_REDIRECT_URI=''
 
         scope='user-read-recently-played'
 
