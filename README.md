@@ -20,6 +20,8 @@ Data science portfolio:
 * used sqlalchemy object-relational mapper(ORM) 
 * airflow scheduling 
 * sqlite database
+* Vscode
+* Builded using ubuntu-20.02.2.0
 * DBeaver-21.1.0 database management
 
 Other projects:
