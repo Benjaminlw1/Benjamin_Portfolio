@@ -11,7 +11,7 @@ Data science portfolio:
 # Project 2: Web scaping and Build ETL pipline: project Overview
 * Filename Data_Pipeline
 * Obtain data by web scaping
-* Build pipeline by extract, transform and load data from web scaping
+* Build pipeline by extract, transform and load data
 * Load data to FAST API
 * To run project ".\run.sh" in windows shell
 
