@@ -15,11 +15,12 @@ Data science portfolio:
 * Load data to FAST API
 * To run project ".\run.sh" in windows shell
 
-# Project 3: Build Batch ETL using spotify api and scheduling with airflow 
+# Project 3: Build Batch ETL using spotify api and scheduling with airflow : project Overview
 * Filename : Data Engineering_project
-* building full ETL pipline on self generated spotify dataset and schedule download at every end of the month using airflow, notification to be send through email. 
+* Build full ETL pipline on self generated spotify dataset and schedule download at every end of the month using airflow, notification to be send through email. 
 
-# Project 4: Predict music emotion using spotify dataset from kaggle and elastic search (updating)
+# Project 4: Predict music emotion using spotify dataset from kaggle and machine learning with elastic search (updating) : project Overview
+* 
 
 
 Other projects:
