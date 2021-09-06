@@ -15,14 +15,12 @@ Data science portfolio:
 * Load data to FAST API
 * To run project ".\run.sh" in windows shell
 
-# Project 3: Build Batch ETL using spotify api and scheduling with airflow (updating email operator)
+# Project 3: Build Batch ETL using spotify api and scheduling with airflow 
 * Filename : Data Engineering_project
-* sqlalchemy object-relational mapper(ORM) 
-* airflow scheduling 
-* sqlite database
-* Python 3.8
-* OS ubuntu-20.02.2.0
-* DBeaver-21.1.0 database management
+* building full ETL pipline on self generated spotify dataset and schedule download at every end of the month using airflow, notification to be send through email. 
+
+# Project 4: Predict music emotion using spotify dataset from kaggle and elastic search (updating)
+
 
 Other projects:
 
